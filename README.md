@@ -1,2 +1,2 @@
 # udacity
-some audacity projects
+udacity projects
